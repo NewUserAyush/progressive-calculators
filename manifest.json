@@ -1,0 +1,35 @@
+{
+  "name": "progressive Calculator",
+  "short_name": "Calci",
+  "icons": [{
+        "src": "cal.png",
+        "type": "image/png",
+        "sizes": "128x128"
+      }, {
+        "src": "cal.png",
+        "type": "image/png",
+        "sizes": "152x152"
+      }, {
+        "src": "cal.png",
+        "type": "image/png",
+        "sizes": "144x144"
+      }, {
+        "src": "cal.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "cal.png",
+        "type": "image/png",
+        "sizes": "256x256"
+      },
+      {
+        "src": "cal.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }],
+"start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#566573",
+  "theme_color": "#FDEDEC"
+}
